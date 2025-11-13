@@ -4,6 +4,24 @@
   💻 Web App Developer | Computer Science Student | Front-End & Back-End
 </p>
 
+from datetime import date, timedelta
+import os
+
+TEXT = [
+    "TTTT H   H EEEE PPP ",
+    " T   H   H E    P  P",
+    " T   HHHHH EEEE PPP ",
+    " T   H   H E    P   ",
+    " T   H   H EEEE P   ",
+]
+
+start_date = date(2024, 1, 1)  # เริ่มวาดจากวันที่
+for y, row in enumerate(TEXT):
+    for x, char in enumerate(row):
+        if char != ' ':
+            d = start_date + timedelta(days=x + y * 7)
+            os.system(f"GIT_COMMITTER_DATE='{d}T12:00:00' git commit --allow-empty -m 'dot' --date='{d}T12:00:00'")
+
 ---
 
 ### 🌟 About Me
@@ -20,14 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thepmakecodthai&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepmakecodthai&theme=tokyonight" />
-</p>
 
 ---
 
