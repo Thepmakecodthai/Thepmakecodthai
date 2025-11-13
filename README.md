@@ -18,10 +18,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-<!-- ภาพแมวหลับ -->
-<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6Ym94ZDlnenVkODR5eWNjbWk0NmVqdDV5ZHU5YTFtbGEwbGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9ZYmoL86uJPwoP1pu/giphy.gif)" width="200" alt="cute cat gif"/>
-</div>
+<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
+
+<p align="center">
+  <!-- Snake animation with tail length 20 -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?snake=20" alt="snake animation" />
+  <br/>
+  <strong style="font-size: 24px; color: #FF0000;">T H E P ⚡️ E D I T I O N</strong>
+</p>
+
 
 <h3 align="left">🌟 ABOUT ME</h3>
 <ul>
