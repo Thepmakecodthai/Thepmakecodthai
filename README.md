@@ -39,12 +39,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,vscode,github&theme=dark" alt="Tech Stack Icons"/>
 </p>
 
-<h3 align="left">🤝 CONTACT</h3>
-<p align="left">
-  <a href="[Your LinkedIn URL Here]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[Your Portfolio URL Here]">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</p>
