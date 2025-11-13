@@ -21,8 +21,8 @@
 <h3 align="left">🐍 CODE COMMIT HISTORY</h3>
 
 <p align="center">
-  <!-- Snake animation with tail length 20 -->
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?snake=20" alt="snake animation" />
+  <!-- Custom Red Snake with long tail -->
+  <img src="https://your-image-host.com/thep-red-snake.gif" alt="Red Snake Animation" />
   <br/>
   <strong style="font-size: 24px; color: #FF0000;">T H E P ⚡️ E D I T I O N</strong>
 </p>
