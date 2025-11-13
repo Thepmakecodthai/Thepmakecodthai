@@ -18,13 +18,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&side_main=FF0000&side_border=FF0000&stroke=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  <br/>
-  <strong style="font-size: 24px; color: #FF0000;">T H E P ⚡️ E D I T I O N</strong>
-</p>
+<h3 align="left">🧩 TOP LANGUAGES</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  
+  THEP • EDITION
+</div>
 
 <h3 align="left">🌟 ABOUT ME</h3>
 <ul>
