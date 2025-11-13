@@ -18,6 +18,35 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
+<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
+<p align="center">
+  <!-- Custom Snake Animation SVG -->
+  <img width="720" src="https://raw.githubusercontent.com/Thepmakecodthai/Thepmakecodthai/main/snake-thep.svg?v=1" alt="Snake THEP tail animation" loading="lazy" />
+  <br/>
+  <strong style="font-size: 24px; color: #FF0000; letter-spacing: 0.25em;">T H E P ⚡️ E D I T I O N</strong>
+</p>
+
+<h3 align="left">🧩 TOP LANGUAGES</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepmakecodthai&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Languages" />
+  <br/>
+  <b style="color:#FF0000; letter-spacing: 0.2em;">THEP • EDITION</b>
+</div>
+
+<h3 align="left">🌟 ABOUT ME</h3>
+<ul>
+  <li><b><span style="color: #FF0000;">FOCUS:</span></b> Currently diving deep into <b>React, Node.js, and Cloud Computing (AWS/GCP)</b>.</li>
+  <li><b><span style="color: #FF0000;">ASK ME:</span></b> Expertise in <b>HTML, CSS, JS, and responsive Web Development</b>.</li>
+  <li><b><span style="color: #FF0000;">GOAL:</span></b> Building high-performance applications with clean architecture and minimal design.</li>
+</ul>
+
+<h3 align="left">🧠 TECH STACK</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,vscode,github&theme=dark" alt="Tech Stack Icons"/>
+</p>
+
+<h3 align="left">🐍 SNAKE ANIMATION (SVG)</h3>
+<p align="center">
 <svg width="720" height="220" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bodyGrad" x1="0" y1="0" x2="1" y2="0">
@@ -33,7 +62,7 @@
     </filter>
   </defs>
 
-  <!-- หางงูวาดเป็นตัวอักษร THEP -->
+  <!-- เส้นทางตัวอักษร THEP -->
   <path id="thepPath"
         d="M 20 30 H 120 L 70 30 V 150
            M 160 30 V 150 M 160 90 H 240 M 240 30 V 150
@@ -62,19 +91,4 @@
 
   <rect x="0" y="0" width="560" height="200" fill="none"/>
 </svg>
-
-  <br/>
-  <strong style="font-size: 24px; color: #FF0000;">T H E P ⚡️ E D I T I O N</strong>
-</p>
-
-<h3 align="left">🌟 ABOUT ME</h3>
-<ul>
-  <li><b><span style="color: #FF0000;">FOCUS:</span></b> Currently diving deep into <b>React, Node.js, and Cloud Computing (AWS/GCP)</b>.</li>
-  <li><b><span style="color: #FF0000;">ASK ME:</span></b> Expertise in <b>HTML, CSS, JS, and responsive Web Development</b>.</li>
-  <li><b><span style="color: #FF0000;">GOAL:</span></b> Building high-performance applications with clean architecture and minimal design.</li>
-</ul>
-
-<h3 align="left">🧠 TECH STACK</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,vscode,github&theme=dark" alt="Tech Stack Icons"/>
 </p>
