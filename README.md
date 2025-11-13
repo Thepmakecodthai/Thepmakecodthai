@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm ThepThaitodev</h1>
+<h1 align="center">👋 Hi, I'm Thep</h1>
 
 <p align="center">
   💻 Web App Developer | Computer Science Student | Front-End & Back-End
