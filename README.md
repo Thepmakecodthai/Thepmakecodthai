@@ -6,6 +6,20 @@
   <b>💻 Front-End & Back-End Focused | Computer Science Student | Minimal Code, Maximum Impact</b>
 </p>
 
+<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
+<p align="center">
+  <img width="720" src="https://raw.githubusercontent.com/Thepmakecodthai/Thepmakecodthai/main/snake-thep.svg?v=1" alt="Snake THEP tail animation" loading="lazy" />
+  <br/>
+  <strong style="font-size: 24px; color: #FF0000; letter-spacing: 0.25em;">T H E P ⚡️ E D I T I O N</strong>
+</p>
+
+<h3 align="left">🧩 TOP LANGUAGES</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepmakecodthai&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Languages" />
+  <br/>
+  <b style="color:#FF0000; letter-spacing: 0.2em;">THEP • EDITION</b>
+</div>
+
 <h3 align="left">🌟 ABOUT ME</h3>
 <ul>
   <li><b><span style="color: #FF0000;">FOCUS:</span></b> Currently diving deep into <b>React, Node.js, and Cloud Computing (AWS/GCP)</b>.</li>
@@ -18,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,vscode,github&theme=dark" alt="Tech Stack Icons"/>
 </p>
 
-<!-- Core Stats + GitHub Streak หลัง Tech Stack -->
+<!-- ย้าย Core Stats และ GitHub Streak มาอยู่หลัง TECH STACK -->
 <h3 align="left">🔥 CORE STATS (Crimson Dark Theme)</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thepmakecodthai&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Thep's GitHub Stats" />
@@ -28,14 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
-<p align="center">
-  <img width="720" src="https://raw.githubusercontent.com/Thepmakecodthai/Thepmakecodthai/main/snake-thep.svg?v=1" alt="Snake THEP tail animation" loading="lazy" />
-  <br/>
-  <strong style="font-size: 24px; color: #FF0000; letter-spacing: 0.25em;">T H E P ⚡️ E D I T I O N</strong>
-</p>
-
-<h3 align="left">(SVG)</h3>
+<h3 align="left">🐍 SNAKE ANIMATION (SVG)</h3>
 <p align="center">
 <svg width="720" height="220" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
