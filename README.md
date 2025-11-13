@@ -13,13 +13,6 @@
   <strong style="font-size: 24px; color: #FF0000; letter-spacing: 0.25em;">T H E P ⚡️ E D I T I O N</strong>
 </p>
 
-<h3 align="left">🧩 TOP LANGUAGES</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepmakecodthai&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Languages" />
-  <br/>
-  <b style="color:#FF0000; letter-spacing: 0.2em;">THEP • EDITION</b>
-</div>
-
 <h3 align="left">🌟 ABOUT ME</h3>
 <ul>
   <li><b><span style="color: #FF0000;">FOCUS:</span></b> Currently diving deep into <b>React, Node.js, and Cloud Computing (AWS/GCP)</b>.</li>
@@ -42,7 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🐍 SNAKE ANIMATION (SVG)</h3>
+<h3 align="left">🐍แดง(SVG)</h3>
 <p align="center">
 <svg width="720" height="220" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
