@@ -20,7 +20,7 @@
 
 <div align="center">
 <!-- ภาพแมวหลับ -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cute cat gif"/>
+<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6Ym94ZDlnenVkODR5eWNjbWk0NmVqdDV5ZHU5YTFtbGEwbGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9ZYmoL86uJPwoP1pu/giphy.gif)" width="200" alt="cute cat gif"/>
 </div>
 
 <h3 align="left">🌟 ABOUT ME</h3>
