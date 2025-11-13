@@ -18,19 +18,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
-<p align="center">
-  <!-- อ้างอิงไฟล์ SVG งู (หาง = THEP) ใน repo โปรไฟล์ของคุณ -->
-  <img src="https://raw.githubusercontent.com/Thepmakecodthai/Thepmakecodthai/main/snake-thep.svg" alt="Snake THEP tail animation" />
-  <br/>
-  <strong style="font-size: 24px; color: #FF0000; letter-spacing: 0.25em;">T H E P ⚡️ E D I T I O N</strong>
-</p>
-
-<h3 align="left">🧩 TOP LANGUAGES</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepmakecodthai&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Languages" />
-  <br/>
-  <b style="color:#FF0000; letter-spacing: 0.2em;">THEP • EDITION</b>
+<!-- ภาพแมวหลับ -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cute cat gif"/>
 </div>
 
 <h3 align="left">🌟 ABOUT ME</h3>
