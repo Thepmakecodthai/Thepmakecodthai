@@ -18,7 +18,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🐍 CODE COMMIT HISTORY</h3>
+<h3 align="left"> CODE COMMIT HISTORY</h3>
 <p align="center">
   <!-- Custom Snake Animation SVG -->
   <img width="720" src="https://raw.githubusercontent.com/Thepmakecodthai/Thepmakecodthai/main/snake-thep.svg?v=1" alt="Snake THEP tail animation" loading="lazy" />
@@ -26,12 +26,6 @@
   <strong style="font-size: 24px; color: #FF0000; letter-spacing: 0.25em;">T H E P ⚡️ E D I T I O N</strong>
 </p>
 
-<h3 align="left">🧩 TOP LANGUAGES</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepmakecodthai&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Languages" />
-  <br/>
-  <b style="color:#FF0000; letter-spacing: 0.2em;">THEP • EDITION</b>
-</div>
 
 <h3 align="left">🌟 ABOUT ME</h3>
 <ul>
