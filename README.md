@@ -4,6 +4,8 @@
   💻 Web App Developer | Computer Science Student | Front-End & Back-End
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thepmakecodthai&show_icons=true&theme=tokyonight" />
@@ -15,9 +17,11 @@
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 Snake Animation: THEP Edition
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <br/>
+  <strong style="font-size: 24px;">🐍 T H E P 🐍</strong>
 </p>
 
 ---
@@ -33,8 +37,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,vscode,github" />
 </p>
-
----
-
-
-
