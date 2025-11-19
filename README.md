@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: #FF0000;">THEP: WEB APPLICATION ARCHITECT</span> ⚔️
+  <span style="color: #FF0100;">THEP: WEB APPLICATION ARCHITECT</span> ⚔️
 </h1>
 
 <p align="center">
