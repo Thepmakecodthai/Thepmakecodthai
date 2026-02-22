@@ -35,7 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thepmakecodthai&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🐍แดง(SVG)</h3>
+<h3 align="left"></h3>
 <p align="center">
 <svg width="720" height="220" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
